@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 30px;
+    background-color: blue;
+    color: white;
+}
+
+.con1,.con2,.con3{
+    padding: 20px;
+    border: 2px transparent;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0.5px 0.5px 8px #808080;
+    margin: 30px;
+    font-size: xx-large;
+}
+
+h3{
+    color: blueviolet;
+    padding-bottom: 5px;
+}
+
